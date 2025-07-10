@@ -3,7 +3,7 @@ from multipledispatch import dispatch
 import time
 
 model = 'gpt-4o'
-api_key = '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'
+api_key = ''  # API_KEY here
 
 def call_api(messages):
     client = OpenAI(api_key = api_key)
