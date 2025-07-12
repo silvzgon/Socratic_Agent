@@ -40,12 +40,12 @@ while (not end)
     （学生输入）
 call_summary（引导结束，生成答题总结）
 ```
-![swtich-case](https://www.pnglog.com/C9bGhy.png)
-![switch-case](https://www.pnglog.com/jtypdp.png)
+![swtich-case](https://imgse.com/i/pVlaRfJ)
+![switch-case](https://imgse.com/i/pVla2Y4)
 <br>
 
 ## 前端界面
-![前端界面](https://www.pnglog.com/VpX2N3.png)
+![前端界面](https://imgse.com/i/pVlagkF)
 <br>
 
 ## 存在的问题
