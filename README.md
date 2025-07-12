@@ -1,20 +1,20 @@
 ## 代码组成
 
-+ **api\.py** 
++ **api\.py**  
 api 调用接口，主要实现两个功能 call_api 和 code_interpreter（code_interpreter 用于处理附件，并且主要用在 pretreatment 步骤保证解题过程的正确性）  
-+ **pretreatment\.py** 
++ **pretreatment\.py**  
 输入题目后生成解题步骤的过程。生成的步骤存在 ./step 文件夹下；  
-+ **dialogue\.py** 
++ **dialogue\.py**  
 基于生成的解题步骤进行引导；  
-+ **prompt\.py** 
++ **prompt\.py**  
 所有调用中用到的 prompt；  
-+ **frontend\.py** 
++ **frontend\.py**  
 前端功能实现；  
-+ **css\.py** 
++ **css\.py**  
 在 frontend\.py 里调用的 css 文件内容；  
-+ **log\.py** 
++ **log\.py**  
 日志：报错、警告等；  
-+ **main\.py** 
++ **main\.py**  
 python main\.py 来运行整个程序。
 <br>
 
