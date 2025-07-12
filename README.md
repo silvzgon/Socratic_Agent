@@ -40,12 +40,12 @@ while (not end)
     （学生输入）
 call_summary（引导结束，生成答题总结）
 ```
-![swtich-case](https://imgse.com/i/pVlaRfJ)
-![switch-case](https://imgse.com/i/pVla2Y4)
+[![swtich-case](https://s21.ax1x.com/2025/07/12/pVlaRfJ.png)](https://imgse.com/i/pVlaRfJ)
+[![switch-case](https://s21.ax1x.com/2025/07/12/pVla2Y4.png)](https://imgse.com/i/pVla2Y4)
 <br>
 
 ## 前端界面
-![前端界面](https://imgse.com/i/pVlagkF)
+[![前端界面](https://s21.ax1x.com/2025/07/12/pVlagkF.png)](https://imgse.com/i/pVlagkF)
 <br>
 
 ## 存在的问题
